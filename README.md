@@ -4,8 +4,7 @@ A Flutter app that allows users to create, search and view a list of tasks.
 
 ![1678039036311](image/README/1678039036311.gif)
 
-
-# Application Architecture
+# Application Architecture:
 
 ```
 lib/
